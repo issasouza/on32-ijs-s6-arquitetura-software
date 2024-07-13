@@ -2,14 +2,9 @@
   <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
 </h1>
 
-# Tema da Aula
+# 🏗️ Arquitetura de Software - Semana 6 - On32 🏗️
 
 Turma Online 32 - Imersão JavaScript | Semana 06 | 2024 | Professora [Jenifer Plácido](https://www.linkedin.com/in/jenifer-pl%C3%A1cido-00b5611ab/)
-
-### 🏗️ Arquitetura de Software - Semana 6 - On32 🏗️
-
-Bem-vindas ao curso de Arquitetura de Software com TypeScript! Neste curso, exploraremos conceitos fundamentais de arquitetura de software, com ênfase em testes unitários, injeção de dependências e a arquitetura hexagonal. Vamos lá! 🚀
-
 ---
 
 ### 📚 Entendimento dos Fundamentos de Arquitetura de Software
