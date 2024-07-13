@@ -1,0 +1,17 @@
+{
+  "name": "biblioteca",
+  "version": "1.0.0",
+  "main": "app/App.ts",
+  "scripts": {
+  "start": "ts-node src/app/App.ts"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^20.14.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.3"
+  }
+}

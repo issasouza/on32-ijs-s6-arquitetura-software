@@ -1,0 +1,16 @@
+{
+  "livros": [
+    {
+      "id": "livro1",
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "estaDisponivel": true
+    },
+    {
+      "id": "livro2",
+      "titulo": "Admirável Mundo Novo",
+      "autor": "Aldous Huxley",
+      "estaDisponivel": true
+    }
+  ]
+}
